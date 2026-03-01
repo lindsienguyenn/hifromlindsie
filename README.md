@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Lindsie 🌟</h1>
+<h1 align="left">Hi, I'm Lindsie </h1>
 <h3 align="left"> A data-driven analyst who uses data to support business decisions.</h3>
 
 - I’m currently working on **Predicting the Energy Consumption for Buildings**
